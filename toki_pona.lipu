@@ -1,3 +1,82 @@
 {
-
+  "a" : {
+    "dectalk" : "ah",
+    "definition" : {
+      "particle" : "emotional interjection, emphasis, or confirmation"
+    }
+  },
+  "akesi" : {
+    "dectalk" : "akesi",
+    "definition" : {
+      "noun" : "lizard, reptile"
+    }
+  },
+  "ala" : {
+    "dectalk" : "ala",
+    "definition" : {
+      "noun" : "nothing",
+      "adjective" : "not, no, empty",
+      "number" : "zero"
+    }
+  },
+  "alasa" : {
+    "dectalk" : "alasa",
+    "definition" : {
+      "verb" : "to hunt, to gather",
+      "verb (unconventional)" : "to search, to look for",
+      "pre-verb (unconventional)" : "to try"
+    }
+  },
+  "ale/ali" : {
+    "dectalk" : "all eh. or. all ee",
+    "definition" : {
+      "noun" : "everything, universe",
+      "adjective" : "every, all, abundant",
+      "number" : "all / infinity (simple system), 100 (complex system)"
+    }
+  },
+  "anpa" : {
+    "dectalk" : "anpa",
+    "definition" : {
+      "noun (old definition)" : "lower part",
+      "adjective" : "bowing down, downward, lowly, humble, dependent",
+      "verb (without object)" : "to bow down",
+      "verb (with object)" : "to conquer, to defeat"
+    }
+  },
+  "ante" : {
+    "dectalk" : "anteh",
+    "definition" : {
+      "noun" : "difference, change, (unconventional version)",
+      "adjective" : "different, other, changed",
+      "verb" : "to change"
+    }
+  },
+  "anu" : {
+    "dectalk" : "anoo",
+    "definition" : {
+      "particle" : "or"
+    }
+  },
+  "awen" : {
+    "dectalk" : "awen",
+    "definition" : {
+      "noun (unconventional)" : "stability, safety, wait",
+      "adjective" : "kept, safe, eduring, resilient, waiting, staying",
+      "verb" : "keep, stay, endure, protect",
+      "pre-verb" : "to continue (doing something)"
+    }
+  },
+  "e" : {
+    "dectalk" : "eh",
+    "definition" : {
+      "particle" : "specifies an object"
+    }
+  },
+  "en" : {
+    "dectalk" : "en",
+    "definition" : {
+      "particle" : "and (combines objects)"
+    }
+  }
 }
