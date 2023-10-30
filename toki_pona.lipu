@@ -82,7 +82,8 @@
   "esun" : {
     "dectalk" : "ehsoon",
     "definition" : {
-      "noun" : "trade, transaction, exchange"
+      "noun" : "trade, transaction, exchange",
+      "adjecive" : "trade/exchange-related, commercial"
     }
   }
 }
