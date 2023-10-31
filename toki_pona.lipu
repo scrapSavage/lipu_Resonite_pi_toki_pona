@@ -79,11 +79,62 @@
       "particle" : "and (combines objects)"
     }
   },
+  "epiku" : {
+     "dectalk" : "epeekoo",
+     "definition" : {
+       "adjective" : "epic, awesome"
+     }
+  },
   "esun" : {
     "dectalk" : "ehsoon",
     "definition" : {
       "noun" : "trade, transaction, exchange",
-      "adjective" : "trade/exchange-related, commercial"
+      "adjective" : "trade/exchange-related, commercial",
+	"verb" : "to trade, to exchange"
     }
+  },
+  "ijo" : {
+  	"dectalk" : "ee yo",
+	"definition" : {
+	 "noun" : "thing, object, matter",
+	 "adjective" : "material, physical"
+	}
+  },
+  "ike" : {
+  	"dectalk" : "ee k",
+	"definition" : {
+		"noun" : "evil",
+		"adjective" : "bad, evil, complex, unnecessary",
+		"verb (unconventional)" : "to make something worse"
+	}
+  },
+  "ilo" : {
+  	"dectalk" : "eelow",
+	"definition" : {
+		"noun" : "tool, machine, device",
+		"adjective" : "useful, (unconventional) electronic, metallic"
+	}
+  },
+  "insa" : {
+  	"dectalk" : "eensah",
+	"definition" : {
+		"noun" : "insides, contents, center, stomach",
+		"adjective" : "central, inside, between"
+	}
+  },
+  "jaki" : {
+  	"dectalk" : "yakey",
+	"definition" : {
+		"noun" : "dirt, waste",
+		"adjective" : "dirty, disgusting, toxic, unclean, unsanitary",
+		"verb" : "to make something dirty"
+	}
+  },
+  "jan" : {
+  	"dectalk" : "yan",
+	"definition" : {
+		"noun" : "person, people, humanity, somebody",
+		"adjective" : "human-like, personal"
+	}
   }
 }
